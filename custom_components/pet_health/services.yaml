@@ -1,0 +1,3 @@
+export_pdf:
+  name: Export Pet Health PDF
+  description: Export pet health report as PDF

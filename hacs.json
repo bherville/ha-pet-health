@@ -1,0 +1,5 @@
+{
+  "name": "Pet Health",
+  "content_in_root": false,
+  "domains": ["pet_health"]
+}
