@@ -1,0 +1,10 @@
+{
+  "domain": "pet_health",
+  "name": "Pet Health",
+  "version": "1.0.0",
+  "documentation": "https://github.com/YOURNAME/pet-health",
+  "requirements": [],
+  "codeowners": ["@YOURNAME"],
+  "config_flow": true,
+  "iot_class": "Local Polling"
+}
